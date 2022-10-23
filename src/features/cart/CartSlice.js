@@ -4,7 +4,7 @@ import cartItems from '../../cartItems';
 // 買い物かごの初期化
 const initialState = {
   cartItems: cartItems,
-  amount: 4,
+  amount: 0,
   total: 0,
 };
 
